@@ -1,4 +1,4 @@
-# Recept Factpry
+# Recept Factory
 
 ## Tagok listája
 
