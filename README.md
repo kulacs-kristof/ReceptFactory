@@ -15,3 +15,8 @@
 - Windows
 
 ## szöveg
+
+## Tagok kora
+
+Kulacs Kristóf 16 éves
+Gehér Marcell 15 éves
