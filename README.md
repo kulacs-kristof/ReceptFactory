@@ -1,9 +1,9 @@
 # Recept Factory
 
-## Tagok listája
+## Tagok listája és kedvenc színük
 
-- Gehér Marcell
-- Kulacs kristóf
+- Gehér Marcell : Zöld
+- Kulacs kristóf : Rózsaszín
 
 ## Tagok iskolai e-mail címe
 
