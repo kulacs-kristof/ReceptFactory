@@ -1,9 +1,9 @@
 # Recept Factory
 
-## Tagok listája és kedvenc színük
+## Tagok listája és kedvenc színük és születési városuk
 
-- Gehér Marcell : Zöld
-- Kulacs kristóf : Rózsaszín
+- Gehér Marcell : Zöld : Tatabánya
+- Kulacs kristóf : Rózsaszín : Tatabánya
 
 ## Tagok iskolai e-mail címe
 
