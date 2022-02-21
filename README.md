@@ -14,9 +14,13 @@
 
 - Windows
 
-## szöveg
 
 ## Tagok osztálya
 
 Kulacs Kristóf 9.A
 Gehér Marcell 9.A
+
+## Tagok kora
+
+Kulacs Kristóf 16 éves
+Gehér Marcell 15 éves
