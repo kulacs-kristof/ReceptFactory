@@ -14,7 +14,11 @@
 
 - Windows
 
-## szöveg
+
+## Tagok osztálya
+
+Kulacs Kristóf 9.A
+Gehér Marcell 9.A
 
 ## Tagok kora
 
