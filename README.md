@@ -9,3 +9,7 @@
 
 - kulacs.kristof@students.jedlik.eu
 - geher.marcell@students.jedlik.eu
+
+## Preferált OS
+
+- Windows
